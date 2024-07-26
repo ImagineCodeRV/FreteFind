@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "523952275460",
+    "firebase_url": "https://fretefind-default-rtdb.firebaseio.com",
+    "project_id": "fretefind",
+    "storage_bucket": "fretefind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523952275460:android:5ec5f2630ebb1f2d0bb551",
+        "android_client_info": {
+          "package_name": "com.imaginecode.fretefind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2eTL7KhdWPs9EQzggl6q8tSCXedcfhns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523952275460:android:73e3bc627dc517d80bb551",
+        "android_client_info": {
+          "package_name": "com.imaginecode.fretefind_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2eTL7KhdWPs9EQzggl6q8tSCXedcfhns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
